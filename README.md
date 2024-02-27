@@ -7,4 +7,13 @@
 - ✨I'm learning k8s, looking forward to KCNA Certification😃
 - 📫 How to reach me: jerryjuma104@gmail.com
 - ⚡ Fun fact: I'm a scholar - athlete🏋️‍♂️
+<details>
+<summary>My top languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| PHP       |
+|     2| Python    |
+|     3| C         |
+
+</details>
