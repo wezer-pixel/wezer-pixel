@@ -17,3 +17,9 @@
 |     3| C         |
 
 </details>
+
+
+---
+> If the path was easy, Everyone would walk it, and it would lead nowhere.
+
+— A. T
