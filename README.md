@@ -7,6 +7,7 @@
 - ✨ Graduated from ALX SE- Backend Development
 - 📫 How to reach me: jerryjuma104@gmail.com
 - ⚡ Fun fact: I'm a scholar - athlete🏋️‍♂️
+- 📖 Learning Rust.
 <details>
 <summary>My top languages</summary>
 
