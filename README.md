@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m Jerry Juma.
-- 🌱 I’m a Software Engineer at ALX, specializing in Backend Development.
+- 🌱 I’m a Cloud and Linux Engineer at Sybyl.
 - 🏭 I develop web applications with Laravel.
-- 💬 Ask me about C, PHP, Python, backend development and DevOps.
-- ✨I'm learning k8s, looking forward to KCNA Certification😃
+- 💬 Ask me about Cloud Architecture, VMs, Kubernetes, Docker, OpenShift, Backend Development. 
+- ✨ Graduated from ALX SE- Backend Development
 - 📫 How to reach me: jerryjuma104@gmail.com
 - ⚡ Fun fact: I'm a scholar - athlete🏋️‍♂️
 <details>
@@ -15,6 +15,20 @@
 |     1| PHP       |
 |     2| Python    |
 |     3| C         |
+
+</details>
+
+<details>
+<summary>Stack</summary>
+
+| Rank |           |
+|-----:|-----------|
+|     1| OpenShift |
+|     2| AWS       |
+|     3| CloudStack|
+|     4| RHEL 9    |
+|     5| Kubernetes|
+|     6| Docker    |
 
 </details>
 
