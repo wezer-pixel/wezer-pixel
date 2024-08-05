@@ -4,7 +4,7 @@
 - 🌱 I’m a Systems Engineer at Sybyl.
 - 🏭 I work with these technologies: AWS, CloudStack, Kubernetes, Docker, WSO2 API Development, Software Engineering (Laravel, Python, C).
 - ✨ Graduated from ALX SE- Backend Development.
-- 📖 Learning Rust.
+- 📖 Learning Rust and Blender.
 - 📫 How to reach me: jerryjuma104@gmail.com
 
 <details>
