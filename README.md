@@ -12,9 +12,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| PHP       |
-|     2| Python    |
-|     3| C         |
+|     1| C         |
+|     2| PHP       |
+|     3| Python    |
 
 </details>
 
@@ -28,8 +28,8 @@
 |     3| Laravel   |
 |     4| Linux     |
 |     5| AWS       |
-|     6| CloudStack|
-|     7| WSO2      |
+|     6| WSO2      |
+|     7| CloudStack|     |
 
 </details>
 
