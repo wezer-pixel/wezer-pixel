@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I am Jerry Juma.
-- 🌱 I’m a Systems Engineer at Sybyl.
-- 🏭 I work with these technologies: AWS, CloudStack, Kubernetes, Docker, WSO2 API Development, Software Engineering (Laravel, Python, C).
-- ✨ Graduated from ALX SE- Backend Development.
+- 🌱 I’m a Cloud and DevOps Engineer at Sybyl.
+- 🏭 I work with these technologies: AWS, CloudStack, OpenShift, Kubernetes, Docker, WSO2 Products, Python, C, Linux.
+- ✨ ALX SE - Certified.
 - 📖 Learning Rust and Blender.
 - 📫 How to reach me: jerryjuma104@gmail.com
 
@@ -25,7 +25,7 @@
 |-----:|-----------|
 |     1| Kubernetes|
 |     2| Docker    |
-|     3| Laravel   |
+|     3| OpenShift |
 |     4| Linux     |
 |     5| AWS       |
 |     6| WSO2      |
@@ -37,4 +37,4 @@
 ---
 > If the path was easy, Everyone would walk it, and it would lead nowhere.
 
-— A. T
+
