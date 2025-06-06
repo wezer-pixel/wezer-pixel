@@ -3,8 +3,9 @@
 - 🔭 I am Jerry Juma.
 - 🌱 I’m a Cloud and DevOps Engineer at Sybyl.
 - 🏭 I work with these technologies: AWS, CloudStack, OpenShift, Kubernetes, Docker, WSO2 Products, Python, C, Linux.
+- ☸️ KCNA Certified. 
 - ✨ ALX SE - Certified.
-- 📖 Learning Rust and Blender.
+- 📖 Learning Go.
 - 📫 How to reach me: jerryjuma104@gmail.com
 
 <details>
@@ -13,8 +14,8 @@
 | Rank | Languages |
 |-----:|-----------|
 |     1| C         |
-|     2| PHP       |
-|     3| Python    |
+|     2| Python    |
+|     3| PHP       |
 
 </details>
 
