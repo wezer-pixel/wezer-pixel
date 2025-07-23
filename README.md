@@ -2,7 +2,7 @@
 
 - 🔭 I am Jerry Juma.
 - 🌱 I’m a Cloud and DevOps Engineer at Sybyl.
-- 🏭 I work with these technologies: AWS, CloudStack, OpenShift, Kubernetes, Docker, WSO2 Products, Python, C, Linux.
+- 🏭 I work with these technologies: AWS, CloudStack, OpenShift, Kubernetes, Docker, Spectro Cloud, C, Linux.
 - ☸️ KCNA Certified. 
 - ✨ ALX SE - Certified.
 - 📖 Learning Go.
@@ -22,15 +22,16 @@
 <details>
 <summary>Stack</summary>
 
-| Rank |           |
-|-----:|-----------|
-|     1| Kubernetes|
-|     2| Docker    |
-|     3| OpenShift |
-|     4| Linux     |
-|     5| AWS       |
-|     6| WSO2      |
-|     7| CloudStack|     |
+| Rank |               |
+|-----:|---------------|
+|     1| Kubernetes    |
+|     2| Docker        |
+|     3| Spectro Cloud |
+|     3| OpenShift     |
+|     4| Linux         |
+|     5| AWS           |
+|     6| WSO2          |
+|     7| CloudStack    |
 
 </details>
 
