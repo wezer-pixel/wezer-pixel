@@ -1,12 +1,19 @@
 ### Hi there 👋
 
 - 🔭 I am Jerry Juma.
-- 🌱 I’m a Cloud and DevOps Engineer at Sybyl.
-- 🏭 I work with these technologies: AWS, CloudStack, OpenShift, Kubernetes, Docker, Spectro Cloud, C, Linux.
-- ☸️ KCNA Certified. 
+- 🌱 I’m a Cloud, Platform and DevOps Engineer at Sybyl.
+- 🏭 I work with these technologies: AWS, Openstack, CloudStack, OpenShift, Kubernetes, Docker, Spectro Cloud, C, Red Hat Linux.
+- ☸️ KCNA Certified.
+- AWS Solutions Architect Associate
 - ✨ ALX SE - Certified.
-- 📖 Learning Go.
 - 📫 How to reach me: jerryjuma104@gmail.com
+
+<a href="https://certdirectory.io/profile/jerry-juma?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/jerry-juma.svg?style=card&theme=dark">
+    <img alt="Jerry Juma on CertDirectory" src="https://certdirectory.io/badge/jerry-juma.svg?style=card">
+  </picture>
+</a>
 
 <details>
 <summary>My top languages</summary>
