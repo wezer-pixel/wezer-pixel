@@ -3,10 +3,10 @@
 I'm **Jerry Juma**, an Enterprise Systems, Site Reliability and DevOps Engineer at **Sybyl Kenya Ltd**, based in Nairobi, Kenya.
 
 - 🔭 I lead a team of 5 engineers delivering enterprise integration and platform solutions for clients across banking, telecoms and aviation.
-- 🏭 My day-to-day: designing and running **WSO2 middleware** (API Manager, Micro Integrator, Identity Server) on **Kubernetes and OpenShift**, building **CI/CD and GitOps pipelines**, and operating cloud infrastructure on **AWS, KVM/CloudStack and OpenStack**.
-- 🔁 Currently working on: near-zero-downtime workload migration between cloud platforms, multi-cluster Kubernetes designs, and automated build/deploy pipelines for WSO2.
+- 🏭 My day-to-day: designing and deploying **WSO2 middleware** (API Manager, Micro Integrator, Identity Server) in the **Cloud, On-Prem and Container platforms(K8s/OpenShift)**, building **CI/CD and GitOps pipelines**, and operating cloud infrastructure on **AWS, KVM/CloudStack and OpenStack**.
+- 🔁 Currently working on: near-zero-downtime workload migration between private cloud platforms; **Apache Cloudstack -> Openstack**, multi-cluster Kubernetes designs, and automated build/deploy pipelines for WSO2.
 - 🔐 Also into platform security: TLS hardening, self-hosted identity (Active Directory, Keycloak, private CA) and certificate automation.
-- 🤖 Past freelance work in AI model training (computer vision and autonomous-vehicle datasets).
+- 🤖 Freelance work in AI model training (computer vision and autonomous-vehicle datasets).
 - 📫 Reach me: jerryjuma104@gmail.com
 
 ### 🛠️ Stack
@@ -20,8 +20,8 @@ I'm **Jerry Juma**, an Enterprise Systems, Site Reliability and DevOps Engineer 
 | CI/CD & GitOps | Jenkins, Tekton, ArgoCD |
 | Observability | Prometheus, ELK |
 | Messaging | RabbitMQ |
-| Operating systems | Linux (Red Hat family) |
-| Languages | Python, C, PHP (Laravel) |
+| Operating systems | Linux (Red Hat family, Debian) |
+| Languages | Python, C |
 
 ### 📜 Certifications
 
