@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Jerry Juma**, an Cloud, Platform and DevOps Engineer at **Sybyl Kenya Ltd**, based in Nairobi, Kenya.
+I'm **Jerry Juma**, a Cloud, Platform and DevOps Engineer at **Sybyl Kenya Ltd**, based in Nairobi, Kenya.
 
 - 🔭 I lead a team of 5 engineers delivering enterprise integration and platform solutions for clients across banking, telecoms and aviation.
 - 🏭 My day-to-day: designing and deploying **WSO2 middleware** (API Manager, Micro Integrator, Identity Server) in the **Cloud, On-Prem and Container platforms(K8s/OpenShift)**, building **CI/CD and GitOps pipelines**, and operating cloud infrastructure on **AWS, KVM/CloudStack and OpenStack**.
