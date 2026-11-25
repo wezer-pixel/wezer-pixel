@@ -1,12 +1,37 @@
 ### Hi there 👋
 
-- 🔭 I am Jerry Juma.
-- 🌱 I’m a Cloud, Platform and DevOps Engineer at Sybyl.
-- 🏭 I work with these technologies: AWS, Openstack, CloudStack, OpenShift, Kubernetes, Docker, Spectro Cloud, C, Red Hat Linux.
-- ☸️ KCNA Certified.
-- AWS Solutions Architect Associate
-- ✨ ALX SE - Certified.
-- 📫 How to reach me: jerryjuma104@gmail.com
+I'm **Jerry Juma**, an Enterprise Systems, Site Reliability and DevOps Engineer at **Sybyl Kenya Ltd**, based in Nairobi, Kenya.
+
+- 🔭 I lead a team of 5 engineers delivering enterprise integration and platform solutions for clients across banking, telecoms and aviation.
+- 🏭 My day-to-day: designing and running **WSO2 middleware** (API Manager, Micro Integrator, Identity Server) on **Kubernetes and OpenShift**, building **CI/CD and GitOps pipelines**, and operating cloud infrastructure on **AWS, KVM/CloudStack and OpenStack**.
+- 🔁 Currently working on: near-zero-downtime workload migration between cloud platforms, multi-cluster Kubernetes designs, and automated build/deploy pipelines for WSO2.
+- 🔐 Also into platform security: TLS hardening, self-hosted identity (Active Directory, Keycloak, private CA) and certificate automation.
+- 🤖 Past freelance work in AI model training (computer vision and autonomous-vehicle datasets).
+- 📫 Reach me: jerryjuma104@gmail.com
+
+### 🛠️ Stack
+
+| Area | Tools |
+|------|-------|
+| Containers & orchestration | Kubernetes, OpenShift, Docker, Docker Swarm, Spectro Cloud |
+| Integration & API management | WSO2 API Manager, WSO2 Micro Integrator, WSO2 Identity Server |
+| Cloud & virtualization | AWS, OpenStack, Apache CloudStack, KVM |
+| IaC & automation | Terraform, Ansible |
+| CI/CD & GitOps | Jenkins, Tekton, ArgoCD |
+| Observability | Prometheus, ELK |
+| Messaging | RabbitMQ |
+| Operating systems | Linux (Red Hat family) |
+| Languages | Python, C, PHP (Laravel) |
+
+### 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified AI Practitioner
+- Kubernetes and Cloud Native Associate (KCNA)
+- WSO2 Identity Server Practitioner
+- WSO2 Developer
+- Huawei HCCDP – Solutions Architecture
+- ALX Software Engineering
 
 <a href="https://certdirectory.io/profile/jerry-juma?utm_source=github&utm_medium=readme">
   <picture>
@@ -15,35 +40,5 @@
   </picture>
 </a>
 
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| C         |
-|     2| Python    |
-|     3| PHP       |
-
-</details>
-
-<details>
-<summary>Stack</summary>
-
-| Rank |               |
-|-----:|---------------|
-|     1| Kubernetes    |
-|     2| Docker        |
-|     3| Spectro Cloud |
-|     3| OpenShift     |
-|     4| Linux         |
-|     5| AWS           |
-|     6| WSO2          |
-|     7| CloudStack    |
-
-</details>
-
-
 ---
-> If the path was easy, Everyone would walk it, and it would lead nowhere.
-
-
+> If the path was easy, everyone would walk it, and it would lead nowhere.
